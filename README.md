@@ -1,7 +1,18 @@
-### Hi there 👋
+### ✨ Hi there, I am Lucas!  ![51125d9904b0aab078e2f7d0cbf37d8a-ezgif com-resize (1)](https://github.com/LukaszKrolicki/LukaszKrolicki/assets/54467678/9f469b11-830d-46d8-aa05-6ba2f141c783) ✨
+I'm a third-year Computer Science student at the Cracow University of Technology, diving deep into the world of Computer Engineering.  :european_post_office:
 
+
+I'm passionate about crafting utility software that makes life easier for users. :iphone:
+
+
+Currently, I'm honing my skills in Java and Kotlin, always eager to learn and grow in this exciting field! 🚀
+
+
+- 🔭 I’m currently working on MuseoMaster-Mobile
+- 🌱 I’m currently learning Java and Kotlin
 <!--
-**LukaszKrolicki/LukaszKrolicki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**LukaszKrolicki/LukaszKrolicki** is a ✨ _special_ ✨ repository because its `README.md`![Uploading 51125d9904b0aab078e2f7d0cbf37d8a.gif…]()
+ (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
