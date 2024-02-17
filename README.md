@@ -2,7 +2,7 @@
 I'm a third-year Computer Science student at the Cracow University of Technology, diving deep into the world of Computer Engineering.  :european_post_office:
 
 
-I'm passionate about crafting utility software that makes life easier for users. :iphone:
+I'm passionate about crafting application software that makes life easier for users. :iphone:
 
 
 Currently, I'm honing my skills in Java and Kotlin, always eager to learn and grow in this exciting field! 🚀
