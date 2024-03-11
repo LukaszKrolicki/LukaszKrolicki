@@ -9,7 +9,7 @@ Currently, I'm honing my skills in Java and Kotlin, always eager to learn and gr
 
 
 - 🔭 I’m currently working on Integration Google Maps with Kotlin
-- 🌱 I’m currently learning Java and Kotlin
+- 🌱 I’m currently learning Java and Kotlin, Nodejs
 <!--
 **LukaszKrolicki/LukaszKrolicki** is a ✨ _special_ ✨ repository because its `README.md`![Uploading 51125d9904b0aab078e2f7d0cbf37d8a.gif…]()
  (this file) appears on your GitHub profile.
