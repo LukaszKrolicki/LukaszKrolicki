@@ -8,7 +8,7 @@ I'm passionate about crafting application software that makes life easier for us
 Currently, I'm honing my skills in Java and Kotlin, always eager to learn and grow in this exciting field! 🚀
 
 
-- 🔭 I’m currently working on SyncShop
+- 🔭 I’m currently working on Student Project - SyncShop
 - 🌱 I’m currently learning Java and Kotlin, Nodejs, Google maps
 <!--
 **LukaszKrolicki/LukaszKrolicki** is a ✨ _special_ ✨ repository because its `README.md`![Uploading 51125d9904b0aab078e2f7d0cbf37d8a.gif…]()
