@@ -1,7 +1,6 @@
 ###  <img src="https://github.com/user-attachments/assets/e9a92593-6014-489d-8127-3235c37ba4f6" alt="trabki" width="30"/> Hi there, I am Lucas!  ![51125d9904b0aab078e2f7d0cbf37d8a-ezgif com-resize (1)](https://github.com/LukaszKrolicki/LukaszKrolicki/assets/54467678/9f469b11-830d-46d8-aa05-6ba2f141c783) <img src="https://github.com/user-attachments/assets/e9a92593-6014-489d-8127-3235c37ba4f6" alt="trabki" width="30"/> 
 
-I'm a third-year Computer Science student at the Cracow University of Technology, diving deep into the world of Computer Engineering.  :european_post_office:
-
+I am a final-year Computer Science student at Krakow University of Technology, passionate about software development. I am currently seeking an opportunity to gain more professional experience, particularly in backend, frontend, or mobile development. With some hands-on experience already, I am eager to expand my skills and contribute to innovative projects.  :european_post_office:
 
 I'm passionate about crafting application software that makes life easier for users. :iphone:
 
