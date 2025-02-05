@@ -7,8 +7,6 @@ I'm passionate about crafting application software that makes life easier for us
 
 Currently, I'm honing my skills in Java, Spring Boot, React and Kotlin, always eager to learn and grow in this exciting field! 🚀
 
-
-- 🔭 I’m currently working on my Enginnering Diploma and PriceLoop
 - 🌱 I’m currently learning Spring Boot and designing websites with React.js and Tailwind
 
 
